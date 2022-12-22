@@ -1,6 +1,8 @@
 # forecasting-regresi-linear
-English : Forecasting using simple linear regression method, case study forecasting the number of visitors to a mall. <br />
+English : Forecasting using simple linear regression method, case study forecasting the number of visitors to a mall.
+
 Indonesia : Forecasting/Peramalan menggunakan metode regresi linier sederhana, studi kasus peramalan jumlah pengunjung suatu mall.
+
 
 Demo: https://kevinmalikfajar.alwaysdata.net/forecasting-regresi-linear-sederhana/
 
