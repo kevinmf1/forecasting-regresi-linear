@@ -9,6 +9,8 @@ Case Study: Mall X has visitor data for the last 20 days, this data contains the
 
 
 Demo: https://kevinmalikfajar.alwaysdata.net/forecasting-regresi-linear-sederhana/
+username : admin
+password : admin
 
 Contoh Tampilan Web/Web Display Example : 
 
