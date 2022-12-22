@@ -18,4 +18,4 @@ Perhitungan Manual di File Excel/Manual Calculations in Excel Files :
 
 ![alt text](https://i.ibb.co/NVypvVh/Screenshot-1341.png)
 
-Link File Excel : https://docs.google.com/spreadsheets/d/1vGidxHU6xjMfKF1MmsQPRyEu3swZ91wx/edit?usp=sharing&ouid=104135558455022264143&rtpof=true&sd=true
+anything you want to ask about the program, please contact me on telegram @vinkevinz/kalo ada yang ingin ditanyakan terkait program, silahkan hubungi saya di telegram @vinkevinz
